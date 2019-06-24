@@ -1,4 +1,4 @@
-package com.projectvish.sunny;
+package com.project.sunny;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
